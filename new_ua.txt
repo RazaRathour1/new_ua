@@ -36,8 +36,7 @@ Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 10 Build/RP1A.200720.012) [FBAN/F
 Mozilla/5.0 (Linux; Android 12; Mi 11X Pro Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36
 Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 Pro Build/QKQ1.191125.001) [FBAN/FB4A;FBAV/175.0.0.44.99;FBBV/9876543;FBLC/en_US;FBDM/{density=3.0,width=1080,height=1920}]
 Mozilla/5.0 (Linux; U; Android 2.3.3; en-us; Nexus One Build/Gingerbread) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-Mozilla/5.0 (Linux; U; Android 2.2; en-us; Galaxy S Build/Froyo) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-FBAN/FB4A;FBAV/435.0.0.42.112;FBBV/523162189;FBDM/{density=3.0,width=1080,height=2165};FBLC/it_IT;FBRV/526139383;FBCR/TIM;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/LE2113;FBSV/13;FBOP/1;FBCA/arm64-v8a:;]
+Mozilla/5.0 (Linux; U; Android 2.2; en-us; Galaxy S Build/Froyo) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1]
 Mozilla/5.0 (iPhone; CPU iPhone OS 18_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/481.1.0.63.108;FBBV/656141417;FBDV/iPhone17,2;FBMD/iPhone;FBSN/iOS;FBSV/18.0.1;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/80]
 Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/485.1.0.45.110;FBBV/665337277;FBDV/iPhone17,2;FBMD/iPhone;FBSN/iOS;FBSV/18.1;FBSS/3;FBCR/;FBID/phone;FBLC/it_IT;FBOP/80]
 Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22B83 [FBAN/FBIOS;FBAV/490.1.0.49.107;FBBV/663124541;FBDV/iPhone17,2;FBMD/iPhone;FBSN/iOS;FBSV/18.1;FBSS/3;FBID/phone;FBLC/it_IT;FBOP/5;FBRV/666050411]
